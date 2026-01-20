@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PRACHI KUMARI</h1>
+<h1 align="center">Hi 👋, I'm Prachi Kumari</h1>
 <h3 align="center">Cybersecurity Learner & CSE Student from India 🇮🇳</h3>
 
 <p align="center">
